@@ -1,5 +1,6 @@
 {
-  "name": "moncy-portfolio",
+  "name": "portfolio",
+  "homepage": "https://vishnubhargavd.github.io/Portfolio-Website/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
